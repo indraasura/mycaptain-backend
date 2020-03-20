@@ -1,0 +1,25 @@
+{
+  "name": "mycaptain-backend",
+  "version": "1.0.0",
+  "description": "Collection of CRUD operations that manage workshop attendees details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraasura/mycaptain-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indraasura/mycaptain-backend/issues"
+  },
+  "homepage": "https://github.com/indraasura/mycaptain-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1",
+    "nodemon": "^2.0.2"
+  }
+}
